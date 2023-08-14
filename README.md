@@ -24,10 +24,7 @@
   <a href="mailto:anakethylenfernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
  ![Snake animation](https://github.com/anakfernandes/anakfernandes/blob/main/github-contribution-grid-snake.svg)
-</div>
 
 </div>
- 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=anakfernandes&repo=anakfernandes&theme=react)](https://github.com/anakfernandes/anakfernandes)
