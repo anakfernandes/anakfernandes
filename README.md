@@ -25,7 +25,3 @@
 </div>
 
  ![Snake animation](https://github.com/anakfernandes/anakfernandes/blob/main/github-contribution-grid-snake.svg)
-
-</div>
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=anakfernandes&repo=anakfernandes&theme=react)] </div>
