@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👋 Hi, how are you? I'm <a href="https://www.linkedin.com/in/akfernandes/">Ana Fernandes</a>  
+  # 👋 Hi, how are you? I'm < href="https://www.linkedin.com/in/akfernandes/">Ana Fernandes</a>  
   
   👩‍💻 Computer Science at **UFCG**  
   🚀 Enthusiast of **technology, teaching and community building**  
