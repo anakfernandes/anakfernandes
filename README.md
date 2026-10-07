@@ -4,7 +4,7 @@
   
   👩‍💻 Computer Science at **UFCG**  
   🚀 Enthusiast of **technology, teaching and community building**  
-  👩‍🏫 Currently a **Web Development instructor** and active **volunteer at IEEE WIE**  
+  
   
 </div>
 
@@ -21,8 +21,7 @@
 
 ### 🌟 About Me  
 
-- 💡 Passionate about **technology** and its power to transform lives  
-- 📚 I love **teaching** and currently guide students in **front-end web development**  
+- 💡 Passionate about **technology** and its power to transform lives   
 - 🤝 Active volunteer in **tech communities**, always supporting diversity and inclusion  
 - 🎯 Interested in **software development, education and social impact projects**  
 
